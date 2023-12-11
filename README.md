@@ -1,6 +1,6 @@
 
 
-*Projet 1 :* Creation of a Dashboard for real-time visualization of weather data using Kafka, Spark, Hive, Tableau, and Apache Airflow.
+# Creation of a Dashboard for real-time visualization of weather data using Kafka, Spark, Hive, Tableau, and Apache Airflow.
 
 # *Table of Contents*
 2. [Prerequisites for the Project - Installation and Configuration](#prerequisites-for-the-project---installation-and-configuration)

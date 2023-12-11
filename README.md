@@ -3,6 +3,7 @@
 # Creation of a Dashboard for real-time visualization of weather data using Kafka, Spark, Hive, Tableau, and Apache Airflow.
 
 # *Table of Contents*
+1. [Project Objective](#Project-Objective)
 2. [Prerequisites for the Project - Installation and Configuration](#prerequisites-for-the-project---installation-and-configuration)
     - [Development Environment](#1-development-environment)
     - [Setting Up the Dockerized Environment](#2-setting-up-the-dockerized-environment)
